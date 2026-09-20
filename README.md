@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D7EEF5&height=210&section=header&text=Jeevitha%20L&fontSize=44&fontColor=5F7480&animation=fadeIn&fontAlignY=38" width="100%"/>
 
-# 👋 Hey, I'm Jeevitha L
+
 
 ### `AI/ML Engineer in the Making` • `Generative AI Explorer` • `Problem Solver`
 
