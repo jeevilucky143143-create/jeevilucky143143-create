@@ -315,32 +315,6 @@ AI Agents & Intelligent Systems
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jeevilucky143143-create&show_icons=true&theme=default&hide_border=true&rank_icon=github&bg_color=FFF3DD&title_color=806095&text_color=5D5366&icon_color=D08FA7"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeevilucky143143-create&layout=compact&theme=default&hide_border=true&bg_color=F8DCE7&title_color=806095&text_color=5D5366&border_color=D8BCE8"/>
-
-</div>
-
-<br/>
-
- 
-
----
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph"/>
-
-</div>
-
----
-
 ## 🧩 Development Philosophy
 
 <table>
