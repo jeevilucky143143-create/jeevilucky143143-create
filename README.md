@@ -327,11 +327,7 @@ AI Agents & Intelligent Systems
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=jeevilucky143143-create&theme=default&hide_border=true&background=E9D9F6&ring=9B72B5&fire=D58CA5&currStreakLabel=806095&sideLabels=5D5366&dates=806F87&currStreakNum=5D5366&sideNums=5D5366"/>
-
-</div>
+ 
 
 ---
 
